@@ -4,4 +4,4 @@ joblib
 tqdm
 pip-chill
 wincertstore
-#-e .
+-e .

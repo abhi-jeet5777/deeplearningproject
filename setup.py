@@ -22,7 +22,7 @@ name="Xray",
 version="0.0.1",
 author="abhijeet",
 author_email="abhijeetdpatale4@gmail.com",
-install_requires=get_requirements(C:\Users\user\deeplearningproject\requirements_dev.txt),
+install_requires=get_requirements(r"C:\\Users\\user\\deeplearningproject\\requirements_dev.txt"),
 package=find_packages()
 
 )
